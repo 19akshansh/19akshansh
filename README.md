@@ -2,7 +2,7 @@
 
 <hr />
 
-<p align="center"> 👀 I'm Akshansh Srivastava(aka Mr warriyo). </p>
+<p align="center"> 👀 I'm Akshansh Srivastava. </p>
 
 <hr />
 
