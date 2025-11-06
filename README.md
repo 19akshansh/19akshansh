@@ -34,7 +34,7 @@
 ```js
 const Name = "Akshansh"
 const Hobby =
-  "Learning, Coding, Reading Docs, Watching Anime, Helping People & Using Instagram"
+  "Coding, Reading Docs (about new tech) & Helping People"
 const BornIn = "India"
 const Gender = "Male"
 const Age = "16"
@@ -49,7 +49,7 @@ Terminal/console →
 
 $ node info.js
 My Name: Akshansh,
-My Hobbies: Learning, Coding, Reading Docs, Watching Anime, Helping People & Using Instagram,
+My Hobbies: Coding, Reading Docs (about new tech) & Helping People,
 My Birth Place is: India,
 My Gender: Male,
 Age: 16.
