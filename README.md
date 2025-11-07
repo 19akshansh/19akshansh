@@ -60,9 +60,10 @@ $
 
 <h4 align="center"> 🔗 Some Links: </h4>
 <ul style="list-style-type: square">
-<li> <a href="https://youtube.com/c/Mr-warriyo"> YouTube </a> </li>
-<li> <a href="https://discord.gg/pnYKx8Ch4F"> Discord </a> </li>
-<li> <a href="https://github.com/Mr-warriyo"> Github </a> </li>
+<li> <a href="https://youtube.com/c/19akshansh"> YouTube </a> </li>
+<li> <a href="https://discordapp.com/users/584684175035203605"> Discord </a> </li>
+<li> <a href="https://github.com/19akshansh"> Github </a> </li>
+<li> <a href="https://www.linkedin.com/in/19akshansh"> LinkedIN </a> </li>
 </ul>
 
 <hr />
