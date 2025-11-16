@@ -33,7 +33,6 @@
 ### ℹ️ Info:
 ```js
 const name = "Akshansh Srivastav"
-const name = "Akshansh Srivastav"
 const hobbies =
   `Full Stack, Open Source, AI/ML,
   talking to my code,
