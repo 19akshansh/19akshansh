@@ -1,12 +1,9 @@
-<h3 align="center"> 👋 Hello there! </h3>
-
-<hr />
-
-<p align="center"> 👀 I'm Akshansh Srivastava. </p>
-
-<hr />
-
-<p align="center"> 😁 I'm a Programmer from India who has aimed to become not the best, but one of the best coders in the country(maybe in the world too 👀). </p>
+<h3 align="center"> Hoiiii there!!! 😁😁 </h3>
+<br />
+<p align="center"> I'm Akshansh Srivastav🐣, a Programmer from India 
+  <br /> who has aimed to become not just a programmer 😁😁😁😁, 
+  <br /> but one of the best in the world 👀.
+</p>
 
 <hr />
 
@@ -52,7 +49,7 @@ console.log(
   `
 )
 
-Problems: 0 | Error: 0 | Status: Running
+Problems: 0 | Error: 0 | Status: Winning
 
 Terminal/console →
 
