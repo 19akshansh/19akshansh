@@ -42,13 +42,13 @@ $
 # 📊 GitHub Stats:
 ![](https://akshansh-readme.vercel.app/api?username=19akshansh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=19akshansh&theme=radical&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=19akshansh&limit=3&theme=radical&combine_all_yearly_contributions=true)
 ![](https://akshansh-readme.vercel.app/api/top-langs/?username=19akshansh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=19akshansh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=19akshansh&limit=3&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=19akshansh&icon=5&color=0)](https://visitcount.itsvg.in)
