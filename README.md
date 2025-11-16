@@ -6,7 +6,7 @@
 
 <hr />
 
-<p align="center"> 😁 I'm a Coder/Programmer from India who has aimed to become not the best, but one of the best coders in the country(maybe in the world too 👀). </p>
+<p align="center"> 😁 I'm a Programmer from India who has aimed to become not the best, but one of the best coders in the country(maybe in the world too 👀). </p>
 
 <hr />
 
@@ -32,15 +32,25 @@
 
 ### ℹ️ Info:
 ```js
-const Name = "Akshansh"
-const Hobby =
-  "Coding, Reading Docs (about new tech) & Helping People"
-const BornIn = "India"
-const Gender = "Male"
-const Age = "16"
+const name = "Akshansh Srivastav"
+const name = "Akshansh Srivastav"
+const hobbies =
+  `Full Stack, Open Source, AI/ML,
+  talking to my code,
+  Reading Docs (about new tech),
+  annihilating bugs &
+  Helping People with their code & life`
+const birthPlace = "Uttar Pradesh, India"
+const gender = "boy"
+const age = 16
 
 console.log(
-  `My Name: ${Name},\nMy Hobbies: ${Hobby},\nMy Birth Place is: ${BornIn},\nMy Gender: ${Gender},\nAge: ${Age}.`
+  `
+  Hoiii Guys!!! 🐣🐣🐣🐣🐣 
+  I'm ${name} a ${age} year old ${gender},
+  from ${birthPlace}. and,
+  I love to do ${hobbies}.
+  `
 )
 
 Problems: 0 | Error: 0 | Status: Running
@@ -48,11 +58,13 @@ Problems: 0 | Error: 0 | Status: Running
 Terminal/console →
 
 $ node info.js
-My Name: Akshansh,
-My Hobbies: Coding, Reading Docs (about new tech) & Helping People,
-My Birth Place is: India,
-My Gender: Male,
-Age: 16.
+Hoiii Guys!!! 🐣🐣🐣🐣🐣 
+I'm Akshansh Srivastav a 16 year old boy,
+from Uttar Pradesh, India. and,
+I love to do Full Stack, Open Source, AI/ML,
+Reading Docs (about new tech),
+annihilating bugs &
+Helping People with their code & life.
 $
 ```
 
