@@ -68,8 +68,8 @@ $
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://streak-stats.demolab.com?user=19akshansh&theme=radical&hide_border=true)
-![](https://akshansh-readme.vercel.app/api/top-langs/?username=19akshansh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://akshansh-readme.vercel.app/api?username=19akshansh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://akshansh-readme.vercel.app/api/top-langs/?username=19akshansh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://akshansh-readme.vercel.app/api?username=19akshansh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ### 🔝 Top Contributed Repo
 (check pinned repos on profile)
