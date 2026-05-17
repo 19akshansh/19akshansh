@@ -67,7 +67,7 @@ $
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=19akshansh&theme=radical)
+![GitHub Stats](https://streak-stats.demolab.com?user=19akshansh&theme=radical&hide_border=true)
 ![](https://akshansh-readme.vercel.app/api/top-langs/?username=19akshansh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://akshansh-readme.vercel.app/api?username=19akshansh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
