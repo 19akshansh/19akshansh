@@ -67,16 +67,15 @@ $
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=19akshansh&theme=radical)
-![](https://akshansh-readme.vercel.app/api/top-langs/?username=19akshansh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://akshansh-readme.vercel.app/api?username=19akshansh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=19akshansh&theme=radical&hide_border=true)![](https://akshansh-readme.vercel.app/api?username=19akshansh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<!-- ![](https://akshansh-readme.vercel.app/api/top-langs/?username=19akshansh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true) -->
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 (check pinned repos on profile)
-![](https://github-contributor-stats.vercel.app/api?username=19akshansh&limit=3&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=19akshansh&limit=3&theme=radical&combine_all_yearly_contributions=true) -->
 
-### 🏆 Trophies
-<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=19akshansh&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="19akshansh" /></a> 
+<!-- ### 🏆 Trophies
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=19akshansh&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="19akshansh" /></a>  -->
 
 ### 👀 Profile Views (from May 15, 2026 to current)
 <img src="https://komarev.com/ghpvc/?username=19akshansh&label=Profile%20views&color=0e75b6&style=flat" alt="19akshansh" />
