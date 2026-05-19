@@ -77,5 +77,5 @@ $
 <!-- ### 🏆 Trophies
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=19akshansh&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="19akshansh" /></a>  -->
 
-### 👀 Profile Views (from May 15, 2026 to current)
-<img src="https://komarev.com/ghpvc/?username=19akshansh&label=Profile%20views&color=0e75b6&style=flat" alt="19akshansh" />
+<!-- ### 👀 Profile Views (from May 15, 2026 to current)
+<img src="https://komarev.com/ghpvc/?username=19akshansh&label=Profile%20views&color=0e75b6&style=flat" alt="19akshansh" /> -->
