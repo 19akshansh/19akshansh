@@ -49,7 +49,7 @@ $
 ### 📂 Styling
 
 ![ShadcnUI](https://img.shields.io/badge/shadcnui-black?style=flat&logo=shadcnui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React Bootstrap](https://img.shields.io/badge/reactbootstrap-%23007ACC.svg?style=flat&logo=reactbootstrap&logoColor=white)
-<!-- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23007ACC.svg?style=flat&logo=bootstrap&logoColor=white)   -->
+<!-- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23007ACC.svg?style=flat&logo=bootstrap&logoColor=white)    -->
 
 ### 📂 Database
 
