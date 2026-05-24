@@ -22,7 +22,7 @@ console.log(
 ```
 ```
 👨‍💻 Terminal →
-Problems: 0 🐛 | Status: Winning 👑 
+Problems: 0 🐛 | Status: Learning + Winning 👑 
 $ node info
   Hoiii Guys!!! 🐣🐣🐣🐣🐣 
   I'm Akshansh Srivastav a 16 year old boy,
