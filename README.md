@@ -9,7 +9,7 @@ const hobbies =
   Helping People with their code & life`;
 const birthPlace = "Uttar Pradesh, India";
 const gender = "boy";
-const age = 16;
+const age = 17;
 
 console.log(
   `
