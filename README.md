@@ -25,7 +25,7 @@ console.log(
 Problems: 0 🐛 | Status: Learning + Winning 👑 
 $ node info
   Hoiii Guys!!! 🐣🐣🐣🐣🐣 
-  I'm Akshansh Srivastav a 16 year old boy,
+  I'm Akshansh Srivastav a 17 year old boy,
   from Uttar Pradesh, India. and,
   I love to do Full Stack, Open Source, AI/ML,
   Reading Docs (about new tech), uploading on YouTube
